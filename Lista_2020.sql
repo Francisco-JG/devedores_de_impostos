@@ -1,0 +1,2 @@
+SELECT * FROM prev
+WHERE DATA_INSCRICAO like '%2020';
